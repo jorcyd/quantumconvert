@@ -1,4 +1,13 @@
 # quantum to classical converter
+requirements:
+- Python 3.12
+- numpy
+- scipy
+- qiskit
+- qiskit_aer
+- matplotlib
+
+
 The interplay between quantum mechanics and cosmology has garnered significant in-
 terest, particularly in exploring how quantum correlations might manifest in macro-
 scopic, astrophysical phenomena. This script introduces a quantum-classical conver-
