@@ -6,6 +6,7 @@ requirements:
 - qiskit
 - qiskit_aer
 - matplotlib
+- bodo
 
 # qconvert.py:
 measures quantum values between 3 qubits for transferring wave particles.
@@ -13,7 +14,7 @@ measures quantum values between 3 qubits for transferring wave particles.
 # qconvertH01.py:
 compares different Hubble constants through dynamically assigned qubits set by N.  #WARNING###: requires a lot of RAM with large N values, keep values small unless you have a lot of RAM
 
-# ABStract:
+# Abstract:
 The interplay between quantum mechanics and cosmology has garnered significant in-
 terest, particularly in exploring how quantum correlations might manifest in macro-
 scopic, astrophysical phenomena. This script introduces a quantum-classical conver-
